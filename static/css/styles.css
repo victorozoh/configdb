@@ -1,0 +1,5 @@
+urdf-viewer {
+  max-height: 800px;
+  border: 3px solid grey;
+  border-radius: 2px;
+}
